@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\failureview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\failureview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\partial_staticmap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_staticmap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\views\\shoppingcart\\successview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\successview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\vnpayreturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\vnpayreturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\controllers\\settingsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\controllers\\settingsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckOutSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:46.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FailureView.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\FailureView.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\FailureView.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\FailureView.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\FailureView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partial_Item_Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:27.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Partial_StaticMap.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_StaticMap.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_StaticMap.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_StaticMap.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_StaticMap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:15:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuccessView.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\SuccessView.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\SuccessView.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\SuccessView.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\SuccessView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:07.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatisticalController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:03:55.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAAKUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:14:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingSystemController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:03:49.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partial_Item_ThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:52:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:03:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAHEBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:39:04.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VnpayReturn.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:31:43.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:03:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:57:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:57:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:57:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebShoeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAADwvyUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:56:03.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebShoeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:44:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwLYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:42:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAAAMBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:29:33.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:24:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T03:17:30.358Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

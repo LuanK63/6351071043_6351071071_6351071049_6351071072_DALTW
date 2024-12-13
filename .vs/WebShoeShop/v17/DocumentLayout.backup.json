@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|c:\\users\\luan\\desktop\\web\\webshoeshop\\webshoeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\vnpayreturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\vnpayreturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shoppingcart\\partial_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\webshoeshop\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7FB026-A944-41A2-AD97-BD0265DD9B0E}|WebShoeShop\\WebShoeShop.csproj|solutionrelative:webshoeshop\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebShoeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:44:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwLYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:42:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebShoeShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAgwEQBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:39:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_Item_ThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_Item_ThanhToan.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:52:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VnpayReturn.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:31:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAAAMBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:29:33.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:24:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:15:21.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partial_CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAKUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:14:56.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LUAN\\Desktop\\Web\\WebShoeShop\\WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "WebShoeShop\\Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T03:17:30.358Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
